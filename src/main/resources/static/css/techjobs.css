@@ -2,10 +2,6 @@
     margin-top: 72px;
 }
 
-td {
-    font-style: italic;
-}
-
 td, th {
     padding: 10px;
 }
@@ -31,6 +27,10 @@ table.job-listing {
     margin: 30px auto;
     border: 1px solid #e4e4e4;
     width: 80%;
+}
+
+table.job-listing td{
+        font-style: italic;
 }
 
 table.job-listing td:first-child {
