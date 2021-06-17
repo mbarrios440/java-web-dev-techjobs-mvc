@@ -2,6 +2,10 @@
     margin-top: 72px;
 }
 
+td {
+    font-style: italic;
+}
+
 td, th {
     padding: 10px;
 }
